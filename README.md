@@ -3,7 +3,7 @@ Seven-Languages-Caesar-Cipher
 
 A relatively simple Caesar cipher, coded in: Scala, Pascal, Fortran, Cobol, Lisp, Erlang, and ML.
 
-This was completed for Marist College's Theory of Programming Languages course tuaght by Alan. As for the specific lanugauges used:
+This was completed for Marist College's Theory of Programming Languages course tuaght by Alan. As for the specific langauges used:
 
 Free Cobol, 
 Common Lisp, 
